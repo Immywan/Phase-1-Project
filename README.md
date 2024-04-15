@@ -15,8 +15,7 @@
     - And your application is running.
        
 ## Live link
-Deployed Frontend can be accessed here [Blog] 
-
+Deployed Frontend can be accessed here [Blog](https://immywan.github.io/Phase-1-Project/)
 
 ## Known Bugs
     Otherwise application works perfectly well, no bugs.
